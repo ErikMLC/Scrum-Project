@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0; /* Color de fondo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .card {
+    background-color: #f9f9f9; /* Color de la tarjeta */
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .card-header {
+    background-color: #ffe6e6; /* Color del encabezado de la tarjeta */
+    border-bottom: none;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  .btn-login {
+    background-color: #ff9999; /* Color del botón */
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+  }
+  .btn-login:hover {
+    background-color: #ff6666; /* Color del botón al pasar el ratón */
+  }
