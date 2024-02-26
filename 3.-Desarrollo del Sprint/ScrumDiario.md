@@ -4,7 +4,7 @@
 
 - Fecha: 22 de febrero de 2024
 - Hora: 02:00 pm
-- Duración: 30 minutos
+- Duración: 15 minutos
 - Equipo de Desarrollo Presente:
   - Mateo Dueñas
   - Erik Chalacama

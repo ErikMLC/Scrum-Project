@@ -78,7 +78,7 @@
 ## Reuniones y Comunicación:
 
 - Reunión Diaria.
-  - Fecha 1: 
-  - Fecha 2: 
+  - Fecha 1: 20 de febrero de 2024
+  - Fecha 2: 21 de febrero de  2024
 - Herramienta.
   - Microsoft Teams.
