@@ -1,12 +1,13 @@
 ---
 created: 2024-02-25T22:48:46.027Z
-updated: 2024-02-25T22:48:46.024Z
+updated: 2024-02-26T05:51:58.641Z
 assigned: 'Erik Aiden Mateo José'
 progress: 0
 tags:
   - 'ID: HU2'
   - 'Estimación: 12 horas'
   - 'Prioridad: Alta'
+completed: 2024-02-26T05:51:58.642Z
 ---
 
 # Acceso Seguro y Asistencia Interactiva para la Aplicación de Triángulos

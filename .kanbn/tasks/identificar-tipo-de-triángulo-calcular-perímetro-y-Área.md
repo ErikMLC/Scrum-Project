@@ -1,12 +1,13 @@
 ---
 created: 2024-02-25T22:46:15.313Z
-updated: 2024-02-25T22:49:06.815Z
+updated: 2024-02-26T05:52:00.757Z
 assigned: 'Erik Aiden José Mateo'
 progress: 0
 tags:
   - 'ID: HU1'
   - 'Estimación: 8 horas'
   - 'Prioridad: Alta'
+completed: 2024-02-26T05:52:00.757Z
 ---
 
 # Identificar Tipo de Triángulo, Calcular Perímetro y Área
