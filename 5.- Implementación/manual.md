@@ -41,15 +41,15 @@ La interfaz de la aplicación consta de un formulario para ingresar las longitud
 ## 7. Funcionalidades
 - **Iniciar Sesión:**
   - La aplicación no requiere un inicio de sesión separado. Puede utilizarla directamente.
-![alt text](images/Login.png)
+![alt text](Images/Login.png)
 - **Consulta de Triángulo:**
   - Ingrese las longitudes de los lados en los campos proporcionados.
   - Haga clic en el botón "Consultar Triángulo" para calcular y mostrar el tipo, área y perímetro del triángulo.
-![alt text](images/Triangulo.png)
+![alt text](Images/Triangulo.png)
 - **Bot de Ayuda:**
     - La aplicación incluye un bot de ayuda que proporciona asistencia en caso de errores o preguntas frecuentes.
     - El bot aparecerá automáticamente si se detecta una entrada inválida o si el usuario solicita ayuda.
-![alt text](images/boot.png)
+![alt text](Images/boot.png)
 ## 8. Consideraciones
 - La aplicación utiliza Docker para facilitar la distribución y ejecución. Asegúrese de tener permisos para ejecutar contenedores Docker.
 
